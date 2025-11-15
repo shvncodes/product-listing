@@ -1,0 +1,78 @@
+.productContainer {
+    border: 1px solid #c3c0c0;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fdfdfd;
+}
+
+.sponsored {
+    font-size: 12px;
+    font-weight: 400;
+    color: #bdbdbd;
+}
+
+.brandName {
+    font-size: 14px;
+    font-weight: 500;
+    color: #878787;
+}
+
+.title {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.colors {
+    font-size: 12px;
+    font-weight: 400;
+    color: #878787;
+}
+
+.assured {
+    font-size: 14px;
+    font-weight: 600;
+    font-style: italic;
+    color: #0000ff;
+}
+
+.priceSection {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+
+.currentPrice {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.actualPrice {
+    font-size: 12px;
+    font-weight: 400;
+    color: #878787;
+    text-decoration: line-through;
+}
+
+.discount {
+    font-size: 13px;
+    font-weight: 500;
+    color: #0f7214;
+}
+
+.productStatus {
+    font-size: 12px;
+    font-weight: 700;
+    color: #26a541;
+    background-color: #e7f8ec;
+    width: max-content;
+    padding: 4px 6px;
+}
+
+.sizes {
+    span {
+        font-weight: 500;
+        color: #878787;
+    }
+    font-size: 12px;
+    font-weight: 400;
+}
