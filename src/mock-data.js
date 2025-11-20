@@ -10,9 +10,9 @@ export const products = [
     discount: 50,
     currentPrice: 500,
     currency: "INR",
-    sizes: ["S","M","L"],
+    sizes: ["S", "M", "L"],
     colors: ["White", "Blue", "Pink"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "2",
@@ -25,9 +25,9 @@ export const products = [
     discount: 40,
     currentPrice: 899,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Black", "Gray"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "3",
@@ -40,9 +40,9 @@ export const products = [
     discount: 45,
     currentPrice: 715,
     currency: "USD",
-    sizes: ["S","M","L","XL"],
+    sizes: ["S", "M", "L", "XL"],
     colors: ["Red", "Green", "Yellow"],
-    productStatus: "Best Seller"
+    productStatus: "Best Seller",
   },
   {
     id: "4",
@@ -53,9 +53,9 @@ export const products = [
     discount: 30,
     currentPrice: 699,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Blue", "White"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "5",
@@ -66,9 +66,9 @@ export const products = [
     discount: 50,
     currentPrice: 949,
     currency: "INR",
-    sizes: ["S","M","L","XL"],
+    sizes: ["S", "M", "L", "XL"],
     colors: ["Black", "Navy"],
-    productStatus: "Limited"
+    productStatus: "Limited",
   },
   {
     id: "6",
@@ -79,9 +79,9 @@ export const products = [
     discount: 35,
     currentPrice: 780,
     currency: "INR",
-    sizes: ["M","L"],
+    sizes: ["M", "L"],
     colors: ["Red", "Blue"],
-    productStatus: "New Arrival"
+    productStatus: "New Arrival",
   },
   {
     id: "7",
@@ -92,9 +92,9 @@ export const products = [
     discount: 20,
     currentPrice: 640,
     currency: "INR",
-    sizes: ["S","M"],
+    sizes: ["S", "M"],
     colors: ["Pink", "Black"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "8",
@@ -105,9 +105,9 @@ export const products = [
     discount: 25,
     currentPrice: 975,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Gray", "Black"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "9",
@@ -118,9 +118,9 @@ export const products = [
     discount: 55,
     currentPrice: 810,
     currency: "INR",
-    sizes: ["S","M","L"],
+    sizes: ["S", "M", "L"],
     colors: ["Blue", "Maroon"],
-    productStatus: "Best Seller"
+    productStatus: "Best Seller",
   },
   {
     id: "10",
@@ -131,9 +131,9 @@ export const products = [
     discount: 10,
     currentPrice: 630,
     currency: "INR",
-    sizes: ["L","XL"],
+    sizes: ["L", "XL"],
     colors: ["White", "Black"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "11",
@@ -144,9 +144,9 @@ export const products = [
     discount: 40,
     currentPrice: 599,
     currency: "INR",
-    sizes: ["S","M","L","XL"],
+    sizes: ["S", "M", "L", "XL"],
     colors: ["Beige", "Brown"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "12",
@@ -157,9 +157,9 @@ export const products = [
     discount: 30,
     currentPrice: 1120,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Olive", "Black"],
-    productStatus: "Limited Stock"
+    productStatus: "Limited Stock",
   },
   {
     id: "13",
@@ -170,9 +170,9 @@ export const products = [
     discount: 50,
     currentPrice: 749,
     currency: "INR",
-    sizes: ["S","M","L"],
+    sizes: ["S", "M", "L"],
     colors: ["Pink", "Yellow"],
-    productStatus: "Festival Offer"
+    productStatus: "Festival Offer",
   },
   {
     id: "14",
@@ -183,9 +183,9 @@ export const products = [
     discount: 45,
     currentPrice: 1100,
     currency: "INR",
-    sizes: ["L","XL"],
+    sizes: ["L", "XL"],
     colors: ["Blue"],
-    productStatus: "Best Seller"
+    productStatus: "Best Seller",
   },
   {
     id: "15",
@@ -196,9 +196,9 @@ export const products = [
     discount: 15,
     currentPrice: 594,
     currency: "INR",
-    sizes: ["S","M"],
+    sizes: ["S", "M"],
     colors: ["Black", "White"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "16",
@@ -209,9 +209,9 @@ export const products = [
     discount: 35,
     currentPrice: 909,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["White", "Sky Blue"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "17",
@@ -222,9 +222,9 @@ export const products = [
     discount: 45,
     currentPrice: 880,
     currency: "INR",
-    sizes: ["S","M","L","XL"],
+    sizes: ["S", "M", "L", "XL"],
     colors: ["Green", "Blue"],
-    productStatus: "Best Seller"
+    productStatus: "Best Seller",
   },
   {
     id: "18",
@@ -235,9 +235,9 @@ export const products = [
     discount: 20,
     currentPrice: 640,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Black", "Navy"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "19",
@@ -250,7 +250,7 @@ export const products = [
     currency: "INR",
     sizes: [],
     colors: ["Red", "Blue"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "20",
@@ -261,9 +261,9 @@ export const products = [
     discount: 25,
     currentPrice: 675,
     currency: "INR",
-    sizes: ["M","L"],
+    sizes: ["M", "L"],
     colors: ["Maroon", "Olive"],
-    productStatus: "Limited"
+    productStatus: "Limited",
   },
   {
     id: "21",
@@ -274,9 +274,9 @@ export const products = [
     discount: 40,
     currentPrice: 780,
     currency: "INR",
-    sizes: ["S","M","L","XL"],
+    sizes: ["S", "M", "L", "XL"],
     colors: ["Purple", "Pink"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "22",
@@ -287,9 +287,9 @@ export const products = [
     discount: 20,
     currentPrice: 960,
     currency: "INR",
-    sizes: ["L","XL"],
+    sizes: ["L", "XL"],
     colors: ["Blue", "White"],
-    productStatus: "New Arrival"
+    productStatus: "New Arrival",
   },
   {
     id: "23",
@@ -300,9 +300,9 @@ export const products = [
     discount: 30,
     currentPrice: 699,
     currency: "INR",
-    sizes: ["S","M","L"],
+    sizes: ["S", "M", "L"],
     colors: ["Black", "Gray"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "24",
@@ -313,9 +313,9 @@ export const products = [
     discount: 40,
     currentPrice: 1199,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Black", "White"],
-    productStatus: "Best Seller"
+    productStatus: "Best Seller",
   },
   {
     id: "25",
@@ -326,9 +326,9 @@ export const products = [
     discount: 50,
     currentPrice: 900,
     currency: "INR",
-    sizes: ["S","M","L","XL"],
+    sizes: ["S", "M", "L", "XL"],
     colors: ["Green", "Pink"],
-    productStatus: "Festival Offer"
+    productStatus: "Festival Offer",
   },
   {
     id: "26",
@@ -339,9 +339,9 @@ export const products = [
     discount: 25,
     currentPrice: 974,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Navy", "Black"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "27",
@@ -352,9 +352,9 @@ export const products = [
     discount: 35,
     currentPrice: 780,
     currency: "INR",
-    sizes: ["S","M"],
+    sizes: ["S", "M"],
     colors: ["Blue"],
-    productStatus: "New Arrival"
+    productStatus: "New Arrival",
   },
   {
     id: "28",
@@ -365,9 +365,9 @@ export const products = [
     discount: 45,
     currentPrice: 1375,
     currency: "INR",
-    sizes: ["M","L","XL"],
+    sizes: ["M", "L", "XL"],
     colors: ["Black", "Brown"],
-    productStatus: "Hot deal"
+    productStatus: "Hot deal",
   },
   {
     id: "29",
@@ -378,9 +378,9 @@ export const products = [
     discount: 50,
     currentPrice: 999,
     currency: "INR",
-    sizes: ["S","M","L"],
+    sizes: ["S", "M", "L"],
     colors: ["Cream", "Pink"],
-    productStatus: "Best Seller"
+    productStatus: "Best Seller",
   },
   {
     id: "30",
@@ -391,9 +391,9 @@ export const products = [
     discount: 30,
     currentPrice: 909,
     currency: "INR",
-    sizes: ["M","L"],
+    sizes: ["M", "L"],
     colors: ["White", "Blue"],
-    productStatus: "Trending"
+    productStatus: "Trending",
   },
   {
     id: "31",
@@ -404,8 +404,8 @@ export const products = [
     discount: 40,
     currentPrice: 899,
     currency: "INR",
-    sizes: ["S","M","L"],
+    sizes: ["S", "M", "L"],
     colors: ["Beige", "Black"],
-    productStatus: "Hot deal"
-  }
+    productStatus: "Hot deal",
+  },
 ];

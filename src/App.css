@@ -1,8 +1,37 @@
-.mainContainer{
-    padding: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 40px;
-    flex-wrap: wrap;
+.mainConatiner {
+  padding: 10px;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  padding: 10px;
+}
+
+.search-input {
+  font-size: 16px;
+  padding: 8px 10px;
+  border: 2px solid gray;
+  border-radius: 10px;
+}
+
+.serachBtn {
+  font-size: 16px;
+  padding: 9px 11px;
+  border-radius: 10px;
+  border: none;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}
+
+.productCards {
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+  flex-wrap: wrap;
 }
