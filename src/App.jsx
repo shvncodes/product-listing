@@ -7,11 +7,6 @@ function App() {
   const [searchQuery, setSearchQuery] = useState("");
   const [filteredList, setFilteredList] = useState(products);
 
-  const handleSearch = () => {
-    alert(searchQuery);
-    setSearchQuery("");
-  };
-
   useEffect(()=>{
     const filterList = products.filter((product) =>{
         return product.title.toLowerCase().includes(searchQuery.toLowerCase());
@@ -24,7 +19,6 @@ function App() {
       <form
         onSubmit={(e) => {
           e.preventDefault();
-          handleSearch();
         }}
         className="search-form"
       >
@@ -37,9 +31,9 @@ function App() {
             setSearchQuery(e.target.value);
           }}
         />
-        <button type="submit" className="serachBtn">
+        {/* <button type="submit" className="serachBtn">
           Search
-        </button>
+        </button> */}
       </form>
       <div className="productCards">
         {filteredList.map((product) => {
